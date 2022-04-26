@@ -4,6 +4,10 @@ Java应用的一些配置文件字典，来源于公开的字典与平时收集
 
 #### 有时遇到Java应用的任意文件读取漏洞，盲猜不到`properties`、`xml`文件，故有了这个项目，做个备份
 
+`Java_file.txt` 文件字典
+
+`Java_path_file.txt` 带有路径的文件字典
+
 列举一下文件字典
 ```
 jdbc.properties
